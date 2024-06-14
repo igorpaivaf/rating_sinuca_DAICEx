@@ -1,5 +1,5 @@
-ratingsfile = open("ratingsfile.txt", "r")
-ratingstable = open("./web/data.json", "w")
+ratingsfile = open("Rating_Jogadores.txt", "r")
+ratingstable = open("data.json", "w")
 
 nome = ""
 rating = ""

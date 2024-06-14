@@ -114,29 +114,19 @@ def exibir_ratings(ratings):
 # Exemplo de resultados: [(jogador1, jogador2, resultado, tipo_jogo), ...]
 # resultado é a diferença de partidas ganhas (ex: 2 para 2-0 em melhor de 3, 1 para 3-2 em melhor de 5)
 resultados_exemplo = [
-    ('Dornellas', 'Ping', 1, 1),
-    ('Souza', 'Chico', 1, 1),
-    ('Chico', 'White', 1, 1),
-    ('White', 'Heitor', 1, 1),
-    ('White', 'Cristian', 1, 1),
-    ('Souza', 'PedrãoIGC', 1, 1),
-    ('PT', 'Souza', 1, 1),
-    ('PedrãoIGC', 'Heitor', 1, 1),
-    ('PedrãoIGC', 'Guto', 1, 1),
-    ('TH', 'Heitor', 1, 1),
-    ('TH', 'Guto', 1, 1),
-    ('TH', 'Heitor', 1, 1),
-    ('Moises', 'TH', 1, 1),
-    ('White', 'TH', 1, 1),
-    ('White', 'Moises', 1, 1),
-    ('White', 'PT', 1, 1),
-    ('Vitor', 'White', 1, 1),
-    ('Moises', 'Vitor', 1, 1),
-    ('Moises', 'PT', 1, 1),
-    ('Moises', 'TH', 1, 1),
-    ('Matheus', 'Lulu', 1, 1),
-    ('Arthur', 'Luiz', 1, 1),
-    ('Dornellas', 'Tarzan', 1, 1)
+    ('Dornellas', 'PT', 1, 1),
+    ('Dornellas', 'Guto', 1, 1),
+    ('PT', 'Tarzan', 1, 1),
+    ('Dornellas', 'Lulu', 1, 1),
+    ('PT', 'Ryan', 1, 1),
+    ('Fissicaro', 'lulu', 1, 1),
+    ('PT', 'Lulu', 1, 1),
+    ('PT', 'White', 1, 1),
+    ('White', 'MT', 1, 1),
+    ('White', 'Lorde', 1, 1),
+    ('White', 'Fissicaro', 1, 1),
+    ('Ping', 'Lorde', 1, 1),
+    ('Vitor', 'Ping', 1, 1)
 ]
 
 # Executar as funções
