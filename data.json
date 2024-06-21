@@ -2,12 +2,12 @@
     {
         "id": 1,
         "name": "Art",
-        "rating": "947"
+        "rating": "951"
     },
     {
         "id": 2,
         "name": "Arthur",
-        "rating": "941"
+        "rating": "947"
     },
     {
         "id": 3,
@@ -22,7 +22,7 @@
     {
         "id": 5,
         "name": "Carlinhos",
-        "rating": "947"
+        "rating": "943"
     },
     {
         "id": 6,
@@ -32,7 +32,7 @@
     {
         "id": 7,
         "name": "Cristian",
-        "rating": "984"
+        "rating": "987"
     },
     {
         "id": 8,
@@ -71,7 +71,7 @@
     },
     {
         "id": 15,
-        "name": "Estagi·rio",
+        "name": "Estagi√°rio",
         "rating": "1055"
     },
     {
@@ -97,230 +97,235 @@
     {
         "id": 20,
         "name": "Giovanni",
-        "rating": "1020"
+        "rating": "1017"
     },
     {
         "id": 21,
+        "name": "Gusta",
+        "rating": "946"
+    },
+    {
+        "id": 22,
         "name": "Guto",
         "rating": "939"
     },
     {
-        "id": 22,
+        "id": 23,
         "name": "Heitor",
         "rating": "946"
     },
     {
-        "id": 23,
+        "id": 24,
         "name": "Iago",
         "rating": "1005"
     },
     {
-        "id": 24,
+        "id": 25,
         "name": "Iam",
         "rating": "968"
     },
     {
-        "id": 25,
+        "id": 26,
         "name": "Iuri",
         "rating": "1001"
     },
     {
-        "id": 26,
-        "name": "JosÈ",
+        "id": 27,
+        "name": "Jos√©",
         "rating": "996"
     },
     {
-        "id": 27,
-        "name": "Jo„o Gabriel",
+        "id": 28,
+        "name": "Jo√£o Gabriel",
         "rating": "948"
     },
     {
-        "id": 28,
+        "id": 29,
         "name": "Juba",
         "rating": "1019"
     },
     {
-        "id": 29,
+        "id": 30,
         "name": "Kennejhow",
         "rating": "1081"
     },
     {
-        "id": 30,
+        "id": 31,
         "name": "LB",
         "rating": "1002"
     },
     {
-        "id": 31,
+        "id": 32,
         "name": "Lorde",
         "rating": "938"
     },
     {
-        "id": 32,
+        "id": 33,
         "name": "Luiz",
         "rating": "1070"
     },
     {
-        "id": 33,
+        "id": 34,
         "name": "Luiz Carlos",
         "rating": "983"
     },
     {
-        "id": 34,
+        "id": 35,
         "name": "Lulu",
         "rating": "984"
     },
     {
-        "id": 35,
+        "id": 36,
         "name": "MT",
-        "rating": "1028"
+        "rating": "1026"
     },
     {
-        "id": 36,
+        "id": 37,
         "name": "Marlon",
         "rating": "943"
     },
     {
-        "id": 37,
+        "id": 38,
         "name": "Matheus",
         "rating": "954"
     },
     {
-        "id": 38,
-        "name": "Maylin",
-        "rating": "980"
-    },
-    {
         "id": 39,
-        "name": "Moises",
-        "rating": "1070"
+        "name": "Maylin",
+        "rating": "988"
     },
     {
         "id": 40,
+        "name": "Moises",
+        "rating": "1065"
+    },
+    {
+        "id": 41,
         "name": "Natan",
         "rating": "946"
     },
     {
-        "id": 41,
+        "id": 42,
         "name": "PH",
         "rating": "1017"
     },
     {
-        "id": 42,
+        "id": 43,
         "name": "PH da Noite",
         "rating": "967"
     },
     {
-        "id": 43,
+        "id": 44,
         "name": "PHMS",
         "rating": "942"
     },
     {
-        "id": 44,
+        "id": 45,
         "name": "PT",
-        "rating": "953"
+        "rating": "961"
     },
     {
-        "id": 45,
+        "id": 46,
         "name": "Pantz",
         "rating": "984"
     },
     {
-        "id": 46,
+        "id": 47,
         "name": "Patrick",
         "rating": "987"
     },
     {
-        "id": 47,
+        "id": 48,
         "name": "Pedro",
         "rating": "947"
     },
     {
-        "id": 48,
-        "name": "Pedr„oIGC",
+        "id": 49,
+        "name": "Pedr√£oIGC",
         "rating": "961"
     },
     {
-        "id": 49,
+        "id": 50,
         "name": "Ping",
         "rating": "956"
     },
     {
-        "id": 50,
+        "id": 51,
         "name": "RR",
         "rating": "1077"
     },
     {
-        "id": 51,
+        "id": 52,
         "name": "Rhenan",
         "rating": "942"
     },
     {
-        "id": 52,
+        "id": 53,
         "name": "Rocha",
         "rating": "947"
     },
     {
-        "id": 53,
-        "name": "Ryan",
-        "rating": "946"
-    },
-    {
         "id": 54,
-        "name": "Serj„o",
-        "rating": "1030"
+        "name": "Ryan",
+        "rating": "942"
     },
     {
         "id": 55,
-        "name": "Souza",
-        "rating": "979"
+        "name": "Serj√£o",
+        "rating": "1030"
     },
     {
         "id": 56,
+        "name": "Souza",
+        "rating": "976"
+    },
+    {
+        "id": 57,
         "name": "TH",
         "rating": "956"
     },
     {
-        "id": 57,
+        "id": 58,
         "name": "Tarzan",
         "rating": "1005"
     },
     {
-        "id": 58,
+        "id": 59,
         "name": "Ulisses",
         "rating": "942"
     },
     {
-        "id": 59,
-        "name": "Vanderley",
-        "rating": "1031"
-    },
-    {
         "id": 60,
-        "name": "Vitor",
-        "rating": "1088"
+        "name": "Vanderley",
+        "rating": "1026"
     },
     {
         "id": 61,
+        "name": "Vitor",
+        "rating": "1091"
+    },
+    {
+        "id": 62,
         "name": "Wel",
         "rating": "1032"
     },
     {
-        "id": 62,
-        "name": "Wesley",
-        "rating": "1043"
-    },
-    {
         "id": 63,
-        "name": "White",
-        "rating": "1061"
+        "name": "Wesley",
+        "rating": "1047"
     },
     {
         "id": 64,
+        "name": "White",
+        "rating": "1055"
+    },
+    {
+        "id": 65,
         "name": "Xaropinho",
         "rating": "1005"
     },
     {
-        "id": 65,
+        "id": 66,
         "name": "Yam",
         "rating": "984"
     }]
