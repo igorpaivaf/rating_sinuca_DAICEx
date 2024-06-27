@@ -28,7 +28,7 @@ Ian 961
 Iuri 996
 Joao Gabriel 948
 Jose 996
-João 946
+Joao 946
 Juba 1019
 Kennejhow 1081
 LB 997
@@ -44,8 +44,7 @@ Maylin 991
 Moises 1092
 Natan 945
 Noe 956
-PH 1017
-PH da Noite 965
+PH da Noite 1017
 PHMS 942
 PT 967
 Pantz 988
