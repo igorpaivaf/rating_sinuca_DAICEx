@@ -18,6 +18,7 @@ Felipe 948
 Fissicaro 973
 Gaybriel 943
 Giovanni 1017
+Gui 946
 Gusta 941
 Guto 939
 Heitor 957
@@ -27,25 +28,26 @@ Ian 961
 Iuri 996
 Joao Gabriel 948
 Jose 996
+João 946
 Juba 1019
 Kennejhow 1081
-LB 1002
+LB 997
 Lorde 925
 Lucas 948
 Luiz 1062
 Luiz Carlos 983
-Lulu 982
+Lulu 987
 MT 1031
 Marlon 943
 Matheus 954
 Maylin 991
-Moises 1090
+Moises 1092
 Natan 945
 Noe 956
 PH 1017
 PH da Noite 965
 PHMS 942
-PT 958
+PT 967
 Pantz 988
 Patife 946
 Patrick 987
@@ -55,7 +57,7 @@ Ping 946
 RR 1077
 Rhenan 942
 Rocha 947
-Ryan 942
+Ryan 939
 Serjao 1030
 Souza 979
 TH 958
