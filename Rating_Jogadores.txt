@@ -7,9 +7,9 @@ Chico 950
 Cristian 987
 Dan 943
 Daniel 933
-Deborah 938
+Deborah 943
 Diego 938
-Dornellas 1075
+Dornellas 1079
 Dudu 943
 Emily 984
 Estagiario 1035
@@ -36,7 +36,7 @@ Lorde 925
 Lucas 948
 Luiz 1062
 Luiz Carlos 983
-Lulu 1002
+Lulu 1005
 MT 1026
 Marlon 943
 Matheus 954
@@ -46,7 +46,7 @@ Natan 945
 Noe 956
 PH da Noite 1017
 PHMS 942
-PT 967
+PT 962
 Pantz 988
 Patife 946
 Patrick 987
@@ -63,9 +63,9 @@ TH 958
 Tarzan 1005
 Ulisses 942
 Vanderley 1023
-Vitor 1073
+Vitor 1076
 Wel 1032
 Wesley 1036
-White 1089
+White 1079
 Xaropinho 1008
 Yam 984
