@@ -12,7 +12,7 @@ Diego 938
 Dornellas 1061
 Dudu 943
 Emily 984
-Estagiario 1051
+Estagiario 1060
 Fael 948
 Felipe 948
 Fissicaro 973
@@ -23,11 +23,12 @@ Gusta 941
 Guto 939
 Heitor 954
 Iago 1002
-Iam 981
+Iam 972
 Ian 961
 Iuri 996
 Joao 946
 Joao Gabriel 948
+Jogador 910
 Jose 996
 Juba 1019
 Kennejhow 1073
@@ -46,7 +47,7 @@ Natan 945
 Noe 956
 PH da Noite 1016
 PHMS 942
-PT 945
+PT 936
 Pantz 988
 Patife 946
 Patrick 987
@@ -66,6 +67,6 @@ Vanderley 1020
 Vitor 1080
 Wel 1032
 Wesley 1041
-White 1087
+White 1096
 Xaropinho 1008
 Yam 984
