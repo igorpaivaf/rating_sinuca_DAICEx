@@ -1,5 +1,0 @@
-cd "c:/Users/igorp/OneDrive/Área de Trabalho/VSCode/rating_sinuca"
-
-python rating_sinuca.py
-
-

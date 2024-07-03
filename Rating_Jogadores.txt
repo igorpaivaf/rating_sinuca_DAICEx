@@ -28,9 +28,8 @@ Ian 961
 Iuri 996
 Joao 946
 Joao Gabriel 948
-Jogador 870
-JogadorA 997
-JogadorB 903
+JogadorA 970
+JogadorB 930
 Jose 996
 Juba 1019
 Kennejhow 1073
