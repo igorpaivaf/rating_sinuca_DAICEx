@@ -1,5 +1,5 @@
 Art 951
-Arthur 961
+Arthur 979
 Benga 968
 Bia 940
 Bianca 947
@@ -55,7 +55,7 @@ PedraoIGC 961
 Pedro 947
 Ping 942
 RR 1077
-Rhenan 942
+Rhenan 924
 Rocha 917
 Ryan 939
 Serjao 1040
