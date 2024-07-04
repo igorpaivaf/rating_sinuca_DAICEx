@@ -5,20 +5,20 @@ Bia 940
 Bianca 947
 Carlinhos 953
 Chico 950
-Cristian 987
+Cristian 1001
 Dan 943
 Daniel 933
 Deborah 931
 Diego 938
-Dornellas 1061
+Dornellas 1073
 Dudu 943
-Emily 984
+Emily 972
 Estagiario 1054
 Fael 948
 Felipe 948
 Fissicaro 973
 Gaybriel 943
-Giovanni 1017
+Giovanni 1003
 Gui 946
 Gusta 941
 Guto 939
@@ -31,13 +31,13 @@ Joao 946
 Joao Gabriel 948
 Jose 996
 Juba 1019
-Kennejhow 1073
+Kennejhow 1092
 LB 1007
 Lorde 919
 Lucas 948
 Luiz 1052
 Luiz Carlos 983
-Lulu 1010
+Lulu 1007
 MT 1038
 Marlon 943
 Matheus 954
@@ -55,7 +55,7 @@ PedraoIGC 961
 Pedro 947
 Ping 942
 RR 1077
-Rhenan 924
+Rhenan 908
 Rocha 917
 Ryan 939
 Serjao 1040
