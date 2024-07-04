@@ -7,7 +7,7 @@ Chico 950
 Cristian 987
 Dan 943
 Daniel 933
-Deborah 943
+Deborah 931
 Diego 938
 Dornellas 1061
 Dudu 943
@@ -62,7 +62,7 @@ Souza 979
 TH 960
 Tarzan 1002
 Ulisses 942
-Vanderley 1020
+Vanderley 1032
 Vitor 1080
 Wel 1032
 Wesley 1041
