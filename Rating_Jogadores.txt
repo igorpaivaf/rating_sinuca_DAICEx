@@ -18,7 +18,7 @@ Fael 948
 Felipe 948
 Fissicaro 973
 Gaybriel 943
-Giovanni 1003
+Giovanni 1008
 Gui 946
 Gusta 941
 Guto 939
@@ -37,7 +37,7 @@ Lorde 919
 Lucas 948
 Luiz 1052
 Luiz Carlos 983
-Lulu 1007
+Lulu 1018
 MT 1038
 Marlon 943
 Matheus 954
@@ -64,9 +64,9 @@ TH 958
 Tarzan 1002
 Ulisses 942
 Vanderley 1023
-Vitor 1080
+Vitor 1074
 Wel 1032
-Wesley 1041
+Wesley 1031
 White 1077
 Xaropinho 1020
 Yam 984
