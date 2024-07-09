@@ -7,10 +7,10 @@ Carlinhos 953
 Chico 950
 Cristian 1014
 Dan 943
-Daniel 933
+Daniel 929
 Deborah 931
 Diego 938
-Dornellas 1073
+Dornellas 1082
 Dudu 943
 Emily 972
 Estagiario 1054
@@ -63,10 +63,10 @@ Souza 979
 TH 954
 Tarzan 1002
 Ulisses 942
-Vanderley 1031
+Vanderley 1022
 Vitor 1074
 Wel 1032
 Wesley 1031
-White 1077
+White 1081
 Xaropinho 1020
 Yam 984
