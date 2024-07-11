@@ -114,16 +114,16 @@ def exibir_ratings(ratings):
 # Exemplo de resultados: [(jogador1, jogador2, resultado, tipo_jogo), ...]
 # resultado é a diferença de partidas ganhas (ex: 2 para 2-0 em melhor de 3, 1 para 3-2 em melhor de 5)
 resultados_exemplo = [
-    ('Vitor', 'Bianca', 1, 3),
-    ('Vitor', 'Maylin', 1, 3),
-    ('LB', 'PT', 1, 1),
-    ('LB', 'Estagiario', 1, 1),
-    ('Estagiario', 'Souza', 1, 1),
-    ('Estagiario', 'Lorde', 1, 1),
-    ('Estagiario', 'Vitor', 1, 1),
-    ('PT', 'TH', 1, 1),
-    ('PH da Noite', 'Dornellas', 1, 1),
-    ('PH da Noite', 'Estagiario', 1, 1)
+    ('Luiz', 'Art', 1, 3),
+    ('Estagiario', 'Ian', 1, 1),
+    ('Estagiario', 'Ping', 1, 1),
+    ('Estagiario', 'Daniel', 1, 1),
+    ('Estagiario', 'Dornellas', 1, 1),
+    ('Moises', 'Iam', 1, 1),
+    ('Moises', 'Iam', 1, 1),
+    ('Vanderley', 'Moises', 1, 1),
+    ('Iam', 'Vanderley', 1, 1),
+    ('Vanderley', 'Iam', 1, 1)
 ]
 
 # Executar as funções
