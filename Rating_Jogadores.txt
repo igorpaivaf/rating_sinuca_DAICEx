@@ -47,7 +47,7 @@ Natan 945
 Noe 956
 PH da Noite 1026
 PHMS 942
-PT 955
+PT 947
 Pantz 988
 Patife 946
 Patrick 987
@@ -68,5 +68,5 @@ Vitor 1081
 Wel 1032
 Wesley 1031
 White 1075
-Xaropinho 1020
+Xaropinho 1028
 Yam 984
