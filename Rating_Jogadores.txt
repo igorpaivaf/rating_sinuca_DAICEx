@@ -1,8 +1,8 @@
 Art 945
-Arthur 962
+Arthur 959
 Benga 968
 Bia 937
-Bianca 927
+Bianca 921
 Carlinhos 953
 Chico 950
 Cristian 1037
@@ -13,7 +13,7 @@ Diego 938
 Dornellas 1067
 Dudu 943
 Emily 964
-Estagiario 1076
+Estagiario 1079
 Fael 948
 Felipe 948
 Fissicaro 973
@@ -38,16 +38,16 @@ Lucas 948
 Luiz 1059
 Luiz Carlos 983
 Lulu 1025
-MT 1026
+MT 1028
 Marlon 938
 Matheus 954
-Maylin 1003
+Maylin 1017
 Moises 1086
 Natan 945
 Noe 956
-PH da Noite 1026
+PH da Noite 1018
 PHMS 942
-PT 947
+PT 942
 Pantz 988
 Patife 946
 Patrick 987
@@ -66,7 +66,7 @@ Ulisses 942
 Vanderley 1040
 Vitor 1076
 Wel 1032
-Wesley 1007
-White 1070
-Xaropinho 1028
+Wesley 1015
+White 1074
+Xaropinho 1019
 Yam 984
