@@ -5,12 +5,12 @@ Bia 937
 Bianca 921
 Carlinhos 953
 Chico 950
-Cristian 1037
+Cristian 1032
 Dan 943
 Daniel 903
 Deborah 931
 Diego 938
-Dornellas 1067
+Dornellas 1062
 Dudu 943
 Emily 964
 Estagiario 1079
@@ -37,12 +37,12 @@ Lorde 918
 Lucas 948
 Luiz 1067
 Luiz Carlos 983
-Lulu 1025
-MT 1051
+Lulu 1022
+MT 1052
 Marlon 938
 Matheus 954
 Maylin 1017
-Moises 1088
+Moises 1101
 Natan 945
 Noe 956
 PH da Noite 1034
@@ -59,6 +59,7 @@ Rhenan 908
 Rocha 917
 Ryan 939
 Serjao 1040
+Serjão 946
 Souza 970
 TH 950
 Tarzan 1002
@@ -67,6 +68,6 @@ Vanderley 1040
 Vitor 1060
 Wel 1032
 Wesley 1015
-White 1074
+White 1077
 Xaropinho 1019
 Yam 984
