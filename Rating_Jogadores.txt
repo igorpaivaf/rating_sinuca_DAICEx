@@ -24,7 +24,7 @@ Gusta 941
 Guto 953
 Heitor 954
 Iago 1002
-Iam 990
+Iam 994
 Ian 971
 Iuri 996
 Joao 942
@@ -32,7 +32,7 @@ Joao Gabriel 948
 Jose 996
 Juba 1019
 Kennejhow 1102
-LB 1018
+LB 1011
 Lorde 918
 Lucas 948
 Luiz 1067
@@ -42,10 +42,10 @@ MT 1052
 Marlon 938
 Matheus 954
 Maylin 1017
-Moises 1101
+Moises 1104
 Natan 945
 Noe 956
-PH da Noite 1034
+PH da Noite 1024
 PHMS 942
 PT 942
 Pantz 988
@@ -68,6 +68,6 @@ Vanderley 1040
 Vitor 1060
 Wel 1032
 Wesley 1015
-White 1077
+White 1087
 Xaropinho 1019
 Yam 984
