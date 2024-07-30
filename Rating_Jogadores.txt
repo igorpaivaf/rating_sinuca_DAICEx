@@ -8,11 +8,11 @@ Chico 950
 Cristian 1042
 Dan 943
 Daniel 903
-Deborah 931
+Deborah 924
 Diego 938
-Dornellas 1068
+Dornellas 1077
 Dudu 946
-Emily 964
+Emily 960
 Estagiario 1081
 Fael 948
 Felipe 948
@@ -24,7 +24,7 @@ Gusta 941
 Guto 980
 Heitor 954
 Iago 1002
-Iam 963
+Iam 976
 Ian 966
 Iuri 996
 Joao 942
@@ -33,7 +33,7 @@ Jose 996
 Juba 1019
 Kennejhow 1102
 LB 1007
-Lorde 924
+Lorde 921
 Lucas 948
 Luiz 1056
 Luiz Carlos 983
@@ -47,7 +47,7 @@ Natan 945
 Noe 956
 PH da Noite 1017
 PHMS 942
-PT 957
+PT 953
 Pantz 988
 Patife 946
 Patrick 987
@@ -68,6 +68,6 @@ Vanderley 1040
 Vitor 1060
 Wel 1032
 Wesley 995
-White 1073
+White 1069
 Xaropinho 995
 Yam 984
