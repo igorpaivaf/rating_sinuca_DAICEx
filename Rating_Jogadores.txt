@@ -5,7 +5,7 @@ Bia 940
 Bianca 921
 Carlinhos 949
 Chico 950
-Cristian 1037
+Cristian 1031
 Dan 943
 Daniel 903
 Deborah 924
@@ -13,7 +13,7 @@ Diego 938
 Dornellas 1077
 Dudu 946
 Emily 957
-Estagiario 1082
+Estagiario 1075
 Fael 948
 Felipe 948
 Fissicaro 973
@@ -25,20 +25,21 @@ Guto 980
 Heitor 954
 Iago 998
 Iam 975
-Ian 966
+Ian 972
 Iuri 996
 Joao 942
 Joao Gabriel 948
 Jose 996
 Juba 1019
+K 956
 Kennejhow 1102
 LB 1007
 Lorde 921
 Lucas 948
-Luiz 1056
+Luiz 1042
 Luiz Carlos 983
 Lulu 1025
-MT 1058
+MT 1054
 Marlon 938
 Matheus 954
 Maylin 1022
@@ -47,7 +48,7 @@ Natan 945
 Noe 956
 PH da Noite 1017
 PHMS 942
-PT 953
+PT 955
 Pantz 988
 Patife 946
 Patrick 987
@@ -68,6 +69,6 @@ Vanderley 1040
 Vitor 1060
 Wel 1032
 Wesley 1027
-White 1073
+White 1090
 Xaropinho 995
 Yam 984
