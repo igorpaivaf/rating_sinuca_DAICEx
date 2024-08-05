@@ -32,7 +32,7 @@ function fetchData(){
 
             dataWithPosition.forEach(element => root.insertAdjacentHTML('beforebegin', 
                 `<tr class="hover:bg-zinc-800 hover:text-zinc-100">
-                    <td class="text-zinc-500 p-2">${element.position}</td>
+                    <td class="text-zinc-500 p-2">${element.position}°</td>
                     <td class="text-zinc-500 p-2">${element.name}</td>
                     <td  class="text-zinc-500">${element.rating}</td>
                 </tr>`));        }
