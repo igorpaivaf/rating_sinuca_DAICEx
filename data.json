@@ -7,7 +7,7 @@
     {
         "id": 2,
         "name": "Arthur",
-        "rating": "993"
+        "rating": "1006"
     },
     {
         "id": 3,
@@ -17,7 +17,7 @@
     {
         "id": 4,
         "name": "Bia",
-        "rating": "931"
+        "rating": "927"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
     {
         "id": 8,
         "name": "Cristian",
-        "rating": "1027"
+        "rating": "1026"
     },
     {
         "id": 9,
@@ -67,12 +67,12 @@
     {
         "id": 14,
         "name": "Dudu",
-        "rating": "936"
+        "rating": "934"
     },
     {
         "id": 15,
         "name": "Emily",
-        "rating": "964"
+        "rating": "967"
     },
     {
         "id": 16,
@@ -107,7 +107,7 @@
     {
         "id": 22,
         "name": "Gui",
-        "rating": "936"
+        "rating": "934"
     },
     {
         "id": 23,
@@ -132,7 +132,7 @@
     {
         "id": 27,
         "name": "Iam",
-        "rating": "973"
+        "rating": "977"
     },
     {
         "id": 28,
@@ -182,7 +182,7 @@
     {
         "id": 37,
         "name": "Lorde",
-        "rating": "916"
+        "rating": "914"
     },
     {
         "id": 38,
@@ -192,7 +192,7 @@
     {
         "id": 39,
         "name": "Luiz",
-        "rating": "1038"
+        "rating": "1036"
     },
     {
         "id": 40,
@@ -202,17 +202,17 @@
     {
         "id": 41,
         "name": "Lulu",
-        "rating": "1062"
+        "rating": "1067"
     },
     {
         "id": 42,
         "name": "MT",
-        "rating": "1043"
+        "rating": "1038"
     },
     {
         "id": 43,
         "name": "Marcello",
-        "rating": "960"
+        "rating": "955"
     },
     {
         "id": 44,
@@ -232,7 +232,7 @@
     {
         "id": 47,
         "name": "Moises",
-        "rating": "1112"
+        "rating": "1113"
     },
     {
         "id": 48,
@@ -247,7 +247,7 @@
     {
         "id": 50,
         "name": "PH da Noite",
-        "rating": "1023"
+        "rating": "1027"
     },
     {
         "id": 51,
@@ -257,7 +257,7 @@
     {
         "id": 52,
         "name": "PT",
-        "rating": "950"
+        "rating": "949"
     },
     {
         "id": 53,
@@ -347,12 +347,12 @@
     {
         "id": 70,
         "name": "VT",
-        "rating": "936"
+        "rating": "930"
     },
     {
         "id": 71,
         "name": "Vanderley",
-        "rating": "1045"
+        "rating": "1047"
     },
     {
         "id": 72,
@@ -372,7 +372,7 @@
     {
         "id": 75,
         "name": "White",
-        "rating": "1113"
+        "rating": "1111"
     },
     {
         "id": 76,
