@@ -282,17 +282,12 @@
     {
         "id": 57,
         "name": "PedraoIGC",
-        "rating": "950"
+        "rating": "965"
     },
     {
         "id": 58,
         "name": "Pedro",
         "rating": "947"
-    },
-    {
-        "id": 59,
-        "name": "PedrãoIGC",
-        "rating": "965"
     },
     {
         "id": 60,
@@ -323,11 +318,6 @@
         "id": 65,
         "name": "Serjao",
         "rating": "1050"
-    },
-    {
-        "id": 66,
-        "name": "Serjão",
-        "rating": "942"
     },
     {
         "id": 67,
