@@ -12,13 +12,18 @@ function fetchData(){
             return res.json();
         })
         .then((data) => {
-            
-            data.forEach(element => root.insertAdjacentHTML('beforebegin', `<tr class="hover:bg-zinc-800 hover:text-zinc-100"><td class="text-zinc-500 p-2">${element.name}</td><td  class="text-zinc-500">${element.rating}</td></tr>`));        }
+
+            data.forEach(element => root.insertAdjacentHTML('beforebegin', 
+                `<tr class="hover:bg-zinc-800 hover:text-zinc-100">
+                    <td class="text-zinc-500 p-2">${element.name}</td>
+                    <td class="text-zinc-500">${element.rating}</td>
+                </tr>`));        }
         )
         .catch((error) => 
             console.error("Nao achei"));
 }
 function fetchData2(){
+    let position = 1
     fetch('./data.json')
         .then((res) =>{
             if (!res.ok){
@@ -29,7 +34,13 @@ function fetchData2(){
         })
         .then((data) => {
             data.sort((a, b) => b.rating - a.rating)
-            data.forEach(element => sorted.insertAdjacentHTML('beforebegin', `<tr class="hover:bg-zinc-800 hover:text-zinc-100"><td class="text-zinc-500 p-2">${element.name}</td><td  class="text-zinc-500">${element.rating}</td></tr>`));        }
+            data.forEach(element => sorted.insertAdjacentHTML(
+                'beforebegin', 
+                `<tr class="hover:bg-zinc-800 hover:text-zinc-100">
+                    <td class="text-zinc-500 p-2">${position++}°</td>
+                    <td class="text-zinc-500 p-2">${element.name}</td>
+                    <td  class="text-zinc-500">${element.rating}</td>
+                    </tr>`));        }
         )
         .catch((error) => 
             console.error("Nao achei"));
