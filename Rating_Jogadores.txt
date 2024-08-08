@@ -13,7 +13,7 @@ Diego 938
 Dornellas 1075
 Dudu 934
 Emily 967
-Estagiario 1053
+Estagiario 1041
 Fael 948
 Felipe 948
 Fissicaro 973
@@ -54,16 +54,14 @@ PT 969
 Pantz 988
 Patife 946
 Patrick 987
-PedraoIGC 950
+PedraoIGC 965
 Pedro 947
-PedrãoIGC 965
 Ping 959
 RR 1077
 Rhenan 908
 Rocha 917
 Ryan 936
-Serjao 1050
-Serjão 942
+Serjao 1062
 Souza 969
 TH 950
 Tarzan 1002
