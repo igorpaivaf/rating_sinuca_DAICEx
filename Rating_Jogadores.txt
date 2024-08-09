@@ -1,11 +1,11 @@
 Art 934
-Arthur 1006
+Arthur 1011
 Benga 968
-Bia 924
+Bia 921
 Bianca 921
 Carlinhos 959
 Chico 950
-Cristian 1035
+Cristian 1032
 Dan 943
 Daniel 900
 Deborah 924
@@ -17,38 +17,39 @@ Estagiario 1041
 Fael 948
 Felipe 948
 Fissicaro 973
-GB 942
+GB 938
 Gaybriel 943
 Giovanni 991
-Gui 934
+Gui 932
 Gusta 941
+Gustavo 946
 Guto 971
 Heitor 954
 Iago 1001
-Iam 977
-Ian 967
+Iam 981
+Ian 963
 Iuri 996
 Joao 942
 Joao Gabriel 948
 Jose 996
 Juba 1019
 K 956
-Kennejhow 1089
+Kennejhow 1066
 LB 1007
 Lorde 914
 Lucas 948
 Luiz 1036
 Luiz Carlos 983
 Lulu 1067
-MT 1038
-Marcello 953
+MT 1046
+Marcello 960
 Marlon 938
 Matheus 954
 Maylin 1002
-Moises 1113
+Moises 1112
 Natan 945
 Noe 952
-PH da Noite 1027
+PH da Noite 1053
 PHMS 942
 PT 969
 Pantz 988
@@ -70,7 +71,7 @@ VT 925
 Vanderley 1047
 Vitor 1060
 Wel 1032
-Wesley 1022
-White 1103
+Wesley 1019
+White 1100
 Xaropinho 995
 Yam 984
