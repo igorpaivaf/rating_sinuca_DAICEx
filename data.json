@@ -37,7 +37,7 @@
     {
         "id": 8,
         "name": "Cristian",
-        "rating": "1032"
+        "rating": "1046"
     },
     {
         "id": 9,
@@ -127,7 +127,7 @@
     {
         "id": 26,
         "name": "Guto",
-        "rating": "971"
+        "rating": "967"
     },
     {
         "id": 27,
@@ -187,7 +187,7 @@
     {
         "id": 38,
         "name": "LB",
-        "rating": "1007"
+        "rating": "1017"
     },
     {
         "id": 39,
@@ -217,7 +217,7 @@
     {
         "id": 44,
         "name": "MT",
-        "rating": "1046"
+        "rating": "1049"
     },
     {
         "id": 45,
@@ -242,7 +242,7 @@
     {
         "id": 49,
         "name": "Moises",
-        "rating": "1112"
+        "rating": "1107"
     },
     {
         "id": 50,
@@ -306,81 +306,86 @@
     },
     {
         "id": 62,
+        "name": "Rafael",
+        "rating": "946"
+    },
+    {
+        "id": 63,
         "name": "Rhenan",
         "rating": "908"
     },
     {
-        "id": 63,
+        "id": 64,
         "name": "Rocha",
         "rating": "917"
     },
     {
-        "id": 64,
+        "id": 65,
         "name": "Ryan",
         "rating": "936"
     },
     {
-        "id": 65,
+        "id": 66,
         "name": "Serjao",
         "rating": "1062"
     },
     {
-        "id": 66,
+        "id": 67,
         "name": "Souza",
-        "rating": "969"
+        "rating": "977"
     },
     {
-        "id": 67,
+        "id": 68,
         "name": "TH",
         "rating": "950"
     },
     {
-        "id": 68,
+        "id": 69,
         "name": "Tarzan",
         "rating": "1002"
     },
     {
-        "id": 69,
+        "id": 70,
         "name": "Ulisses",
         "rating": "925"
     },
     {
-        "id": 70,
+        "id": 71,
         "name": "VT",
         "rating": "925"
     },
     {
-        "id": 71,
+        "id": 72,
         "name": "Vanderley",
         "rating": "1047"
     },
     {
-        "id": 72,
+        "id": 73,
         "name": "Vitor",
         "rating": "1060"
     },
     {
-        "id": 73,
+        "id": 74,
         "name": "Wel",
         "rating": "1032"
     },
     {
-        "id": 74,
-        "name": "Wesley",
-        "rating": "1019"
-    },
-    {
         "id": 75,
-        "name": "White",
-        "rating": "1100"
+        "name": "Wesley",
+        "rating": "1012"
     },
     {
         "id": 76,
+        "name": "White",
+        "rating": "1085"
+    },
+    {
+        "id": 77,
         "name": "Xaropinho",
         "rating": "995"
     },
     {
-        "id": 77,
+        "id": 78,
         "name": "Yam",
         "rating": "984"
     }]

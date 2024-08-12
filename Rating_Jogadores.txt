@@ -5,7 +5,7 @@ Bia 921
 Bianca 921
 Carlinhos 959
 Chico 950
-Cristian 1032
+Cristian 1046
 Dan 943
 Daniel 900
 Deborah 924
@@ -23,7 +23,7 @@ Giovanni 991
 Gui 932
 Gusta 941
 Gustavo 946
-Guto 971
+Guto 967
 Heitor 954
 Iago 1001
 Iam 981
@@ -35,18 +35,18 @@ Jose 996
 Juba 1019
 K 956
 Kennejhow 1066
-LB 1007
+LB 1017
 Lorde 914
 Lucas 948
 Luiz 1036
 Luiz Carlos 983
 Lulu 1067
-MT 1046
+MT 1049
 Marcello 960
 Marlon 938
 Matheus 954
 Maylin 1002
-Moises 1112
+Moises 1107
 Natan 945
 Noe 952
 PH da Noite 1053
@@ -59,11 +59,12 @@ PedraoIGC 965
 Pedro 947
 Ping 959
 RR 1077
+Rafael 946
 Rhenan 908
 Rocha 917
 Ryan 936
 Serjao 1062
-Souza 969
+Souza 977
 TH 950
 Tarzan 1002
 Ulisses 925
@@ -71,7 +72,7 @@ VT 925
 Vanderley 1047
 Vitor 1060
 Wel 1032
-Wesley 1019
-White 1100
+Wesley 1012
+White 1085
 Xaropinho 995
 Yam 984
