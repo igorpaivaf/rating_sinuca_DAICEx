@@ -1,7 +1,7 @@
 Art 934
 Arthur 1011
 Benga 968
-Bia 921
+Bia 920
 Bianca 921
 Carlinhos 959
 Chico 950
@@ -10,7 +10,7 @@ Dan 943
 Daniel 900
 Deborah 924
 Diego 938
-Dornellas 1075
+Dornellas 1057
 Dudu 934
 Emily 967
 Estagiario 1041
@@ -26,7 +26,7 @@ Gustavo 946
 Guto 967
 Heitor 954
 Iago 1001
-Iam 981
+Iam 986
 Ian 963
 Iuri 996
 Joao 942
@@ -35,13 +35,13 @@ Jose 996
 Juba 1019
 K 956
 Kennejhow 1066
-LB 1017
+LB 1009
 Lorde 914
 Lucas 948
 Luiz 1036
 Luiz Carlos 983
 Lulu 1067
-MT 1049
+MT 1046
 Marcello 960
 Marlon 938
 Matheus 954
@@ -68,11 +68,11 @@ Souza 977
 TH 950
 Tarzan 1002
 Ulisses 925
-VT 925
+VT 929
 Vanderley 1047
 Vitor 1060
 Wel 1032
-Wesley 1012
-White 1085
+Wesley 1037
+White 1081
 Xaropinho 995
 Yam 984
