@@ -7,7 +7,7 @@
     {
         "id": 2,
         "name": "Arthur",
-        "rating": "1011"
+        "rating": "1015"
     },
     {
         "id": 3,
@@ -37,7 +37,7 @@
     {
         "id": 8,
         "name": "Cristian",
-        "rating": "1048"
+        "rating": "1044"
     },
     {
         "id": 9,
@@ -62,7 +62,7 @@
     {
         "id": 13,
         "name": "Dornellas",
-        "rating": "1057"
+        "rating": "1052"
     },
     {
         "id": 14,
@@ -72,7 +72,7 @@
     {
         "id": 15,
         "name": "Emily",
-        "rating": "967"
+        "rating": "963"
     },
     {
         "id": 16,
@@ -127,7 +127,7 @@
     {
         "id": 26,
         "name": "Guto",
-        "rating": "967"
+        "rating": "963"
     },
     {
         "id": 27,
@@ -212,7 +212,7 @@
     {
         "id": 43,
         "name": "Lulu",
-        "rating": "1067"
+        "rating": "1042"
     },
     {
         "id": 44,
@@ -242,7 +242,7 @@
     {
         "id": 49,
         "name": "Moises",
-        "rating": "1107"
+        "rating": "1132"
     },
     {
         "id": 50,
@@ -257,7 +257,7 @@
     {
         "id": 52,
         "name": "PH da Noite",
-        "rating": "1053"
+        "rating": "1062"
     },
     {
         "id": 53,
@@ -267,7 +267,7 @@
     {
         "id": 54,
         "name": "PT",
-        "rating": "965"
+        "rating": "969"
     },
     {
         "id": 55,
@@ -287,7 +287,7 @@
     {
         "id": 58,
         "name": "PedraoIGC",
-        "rating": "965"
+        "rating": "961"
     },
     {
         "id": 59,
@@ -297,7 +297,7 @@
     {
         "id": 60,
         "name": "Ping",
-        "rating": "959"
+        "rating": "967"
     },
     {
         "id": 61,
@@ -331,61 +331,66 @@
     },
     {
         "id": 67,
-        "name": "Souza",
-        "rating": "977"
+        "name": "Serjão",
+        "rating": "941"
     },
     {
         "id": 68,
+        "name": "Souza",
+        "rating": "976"
+    },
+    {
+        "id": 69,
         "name": "TH",
         "rating": "950"
     },
     {
-        "id": 69,
+        "id": 70,
         "name": "Tarzan",
         "rating": "1002"
     },
     {
-        "id": 70,
+        "id": 71,
         "name": "Ulisses",
         "rating": "925"
     },
     {
-        "id": 71,
+        "id": 72,
         "name": "VT",
         "rating": "929"
     },
     {
-        "id": 72,
+        "id": 73,
         "name": "Vanderley",
-        "rating": "1047"
+        "rating": "1025"
     },
     {
-        "id": 73,
+        "id": 74,
         "name": "Vitor",
         "rating": "1060"
     },
     {
-        "id": 74,
+        "id": 75,
         "name": "Wel",
         "rating": "1032"
     },
     {
-        "id": 75,
-        "name": "Wesley",
-        "rating": "1037"
-    },
-    {
         "id": 76,
-        "name": "White",
-        "rating": "1081"
+        "name": "Wesley",
+        "rating": "1045"
     },
     {
         "id": 77,
+        "name": "White",
+        "rating": "1101"
+    },
+    {
+        "id": 78,
         "name": "Xaropinho",
         "rating": "995"
     },
     {
-        "id": 78,
+        "id": 79,
         "name": "Yam",
         "rating": "984"
     }]
