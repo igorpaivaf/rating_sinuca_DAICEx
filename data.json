@@ -7,7 +7,7 @@
     {
         "id": 2,
         "name": "Arthur",
-        "rating": "1015"
+        "rating": "1010"
     },
     {
         "id": 3,
@@ -62,7 +62,7 @@
     {
         "id": 13,
         "name": "Dornellas",
-        "rating": "1052"
+        "rating": "1061"
     },
     {
         "id": 14,
@@ -142,7 +142,7 @@
     {
         "id": 29,
         "name": "Iam",
-        "rating": "980"
+        "rating": "985"
     },
     {
         "id": 30,
@@ -217,7 +217,7 @@
     {
         "id": 44,
         "name": "MT",
-        "rating": "1048"
+        "rating": "1032"
     },
     {
         "id": 45,
@@ -267,7 +267,7 @@
     {
         "id": 54,
         "name": "PT",
-        "rating": "969"
+        "rating": "967"
     },
     {
         "id": 55,
@@ -287,7 +287,7 @@
     {
         "id": 58,
         "name": "PedraoIGC",
-        "rating": "961"
+        "rating": "959"
     },
     {
         "id": 59,
@@ -337,7 +337,7 @@
     {
         "id": 68,
         "name": "Souza",
-        "rating": "976"
+        "rating": "980"
     },
     {
         "id": 69,
@@ -377,12 +377,12 @@
     {
         "id": 76,
         "name": "Wesley",
-        "rating": "1045"
+        "rating": "1065"
     },
     {
         "id": 77,
         "name": "White",
-        "rating": "1101"
+        "rating": "1088"
     },
     {
         "id": 78,
