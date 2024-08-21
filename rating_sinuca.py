@@ -31,14 +31,14 @@ def calcular_novo_rating(rating1, rating2, resultado, tipo_jogo, K=8):
     # Ajuste do K baseado na diferença de partidas
     if tipo_jogo == 3:
         if resultado == 2:  # Vitória por 2-0
-            K_factor = 5.0
+            K_factor = 6.0
         else:  # Vitória por 2-1
             K_factor = 3.0
     elif tipo_jogo == 5:
         if resultado == 3:  # Vitória por 3-0
-            K_factor = 8.0
+            K_factor = 12.0
         elif resultado == 2:  # Vitória por 3-1
-            K_factor = 6.0
+            K_factor = 7.0
         else:  # Vitória por 3-2
             K_factor = 5.0
     elif tipo_jogo == 7:
@@ -47,9 +47,9 @@ def calcular_novo_rating(rating1, rating2, resultado, tipo_jogo, K=8):
         elif resultado == 3:  # Vitória por 4-1
             K_factor = 14.0
         elif resultado == 2:  # Vitória por 4-2
-            K_factor = 12.0
-        else:  # Vitória por 4-3
             K_factor = 10.0
+        else:  # Vitória por 4-3
+            K_factor = 8.0
     else:
         K_factor = 1.0
 
@@ -114,17 +114,32 @@ def exibir_ratings(ratings):
 # Exemplo de resultados: [(jogador1, jogador2, resultado, tipo_jogo), ...]
 # resultado é a diferença de partidas ganhas (ex: 2 para 2-0 em melhor de 3, 1 para 3-2 em melhor de 5)
 resultados_exemplo = [
-    ('Wesley', 'MT', 1, 5),
-    ('Dornellas', 'White', 1, 1),
-    ('Dornellas', 'White', 1, 1),
-    ('Iam', 'Arthur', 1, 1),
-    ('Souza', 'Iam', 1, 1),
-    ('MT', 'White', 1, 1),
+    ('VT', 'Ian', 1, 1),
+    ('VT', 'GB', 1, 1),
+    ('Arthur', 'VT', 1, 1),
+    ('MT', 'VT', 1, 1),
+    ('MT', 'GB', 1, 1),
+    ('Arthur', 'MT', 1, 1),
+    ('Lulu', 'MT', 1, 1),
+    ('Arthur', 'Lulu', 1, 1),
+    ('PedraoIGC', 'Arthur', 1, 1),
+    ('PedraoIGC', 'MT', 1, 1),
+    ('Arthur', 'PedraoIGC', 1, 1),
+    ('Arthur', 'Ian', 1, 1),
+    ('Arthur', 'MT', 1, 1),
+    ('Arthur', 'Lulu', 1, 1),
+    ('Arthur', 'GB', 1, 1),
+    ('White', 'Arthur', 1, 1),
+    ('Lulu', 'White', 1, 1),
     ('MT', 'PedraoIGC', 1, 1),
-    ('Dornellas', 'MT', 1, 1),
-    ('Dornellas', 'PT', 1, 1),
-    ('Iam', 'Dornellas', 1, 1),
-    ('White', 'Iam', 1, 1)
+    ('PT', 'Davi', 1, 1),
+    ('Moises', 'PT', 1, 1),
+    ('Cristian', 'Estagiario', 1, 1),
+    ('Estagiario', 'LB', 1, 1),
+    ('PT', 'Estagiario', 1, 1),
+    ('Estagiario', 'PT', 1, 1),
+    ('Lulu', 'White', 1, 1),
+    ('Gustavo', 'PT', 1, 1)
 ]
 
 # Executar as funções
