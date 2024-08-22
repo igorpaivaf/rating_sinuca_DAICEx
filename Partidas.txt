@@ -1,0 +1,10 @@
+//////exemplo de escrita do arquivo padronizado (apagar esta linha quando alterar)
+White
+Joao
+1
+1
+
+Marcos
+Aurelio
+1
+1

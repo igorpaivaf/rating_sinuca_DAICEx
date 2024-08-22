@@ -1,3 +1,4 @@
+""" 
 import os
 
 # Nome do arquivo de ratings
@@ -81,6 +82,8 @@ def calcular_novo_rating(rating1, rating2, resultado, tipo_jogo, K=8):
 
     return round(novo_rating1), round(novo_rating2)
 
+
+
 # Função para atualizar os ratings com base nos resultados dos jogos
 def atualizar_ratings(resultados):
     if not resultados:
@@ -148,3 +151,5 @@ atualizar_ratings(resultados_exemplo)
 # Exibir os ratings atualizados
 ratings_atualizados = ler_ratings()
 exibir_ratings(ratings_atualizados)
+
+ """

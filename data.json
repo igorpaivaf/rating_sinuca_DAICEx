@@ -1,401 +1,482 @@
 [
     {
-        "id": 1,
         "name": "Art",
-        "rating": "934"
+        "rating": "934",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 2,
         "name": "Arthur",
-        "rating": "1030"
+        "rating": "1024",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 3,
         "name": "Benga",
-        "rating": "968"
+        "rating": "968",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 4,
         "name": "Bia",
-        "rating": "920"
+        "rating": "920",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 5,
         "name": "Bianca",
-        "rating": "921"
+        "rating": "921",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 6,
         "name": "Carlinhos",
-        "rating": "959"
+        "rating": "959",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 7,
         "name": "Chico",
-        "rating": "950"
+        "rating": "950",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 8,
         "name": "Cristian",
-        "rating": "1048"
+        "rating": "1048",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 9,
         "name": "Dan",
-        "rating": "943"
+        "rating": "943",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 10,
         "name": "Daniel",
-        "rating": "900"
+        "rating": "900",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 11,
         "name": "Davi",
-        "rating": "946"
+        "rating": "946",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 12,
         "name": "Deborah",
-        "rating": "924"
+        "rating": "924",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 13,
         "name": "Diego",
-        "rating": "938"
+        "rating": "938",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 14,
         "name": "Dornellas",
-        "rating": "1061"
+        "rating": "1061",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 15,
         "name": "Dudu",
-        "rating": "932"
+        "rating": "932",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 16,
         "name": "Emily",
-        "rating": "963"
+        "rating": "963",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 17,
         "name": "Estagiario",
-        "rating": "1039"
+        "rating": "1039",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 18,
         "name": "Fael",
-        "rating": "948"
+        "rating": "948",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 19,
         "name": "Felipe",
-        "rating": "948"
+        "rating": "948",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 20,
         "name": "Fissicaro",
-        "rating": "973"
+        "rating": "973",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 21,
         "name": "GB",
-        "rating": "930"
+        "rating": "927",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 22,
         "name": "Gaybriel",
-        "rating": "943"
+        "rating": "943",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 23,
         "name": "Giovanni",
-        "rating": "991"
+        "rating": "991",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 24,
         "name": "Gui",
-        "rating": "932"
+        "rating": "932",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 25,
         "name": "Gusta",
-        "rating": "941"
+        "rating": "941",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 26,
         "name": "Gustavo",
-        "rating": "951"
+        "rating": "951",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 27,
         "name": "Guto",
-        "rating": "963"
+        "rating": "963",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 28,
         "name": "Heitor",
-        "rating": "954"
+        "rating": "954",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 29,
         "name": "Iago",
-        "rating": "1001"
+        "rating": "997",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 30,
         "name": "Iam",
-        "rating": "985"
+        "rating": "981",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 31,
         "name": "Ian",
-        "rating": "955"
+        "rating": "961",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 32,
         "name": "Iuri",
-        "rating": "996"
+        "rating": "996",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 33,
         "name": "Joao",
-        "rating": "942"
+        "rating": "942",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 34,
         "name": "Joao Gabriel",
-        "rating": "948"
+        "rating": "948",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 35,
         "name": "Jose",
-        "rating": "996"
+        "rating": "996",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 36,
         "name": "Juba",
-        "rating": "1019"
+        "rating": "1019",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 37,
         "name": "K",
-        "rating": "956"
+        "rating": "956",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 38,
         "name": "Kennejhow",
-        "rating": "1066"
+        "rating": "1066",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 39,
         "name": "LB",
-        "rating": "1012"
+        "rating": "1012",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 40,
         "name": "Lorde",
-        "rating": "914"
+        "rating": "914",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 41,
         "name": "Lucas",
-        "rating": "948"
+        "rating": "948",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 42,
         "name": "Luiz",
-        "rating": "1036"
+        "rating": "1036",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 43,
         "name": "Luiz Carlos",
-        "rating": "983"
+        "rating": "983",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 44,
         "name": "Lulu",
-        "rating": "1047"
+        "rating": "1047",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 45,
         "name": "MT",
-        "rating": "1021"
+        "rating": "1024",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 46,
         "name": "Marcello",
-        "rating": "960"
+        "rating": "960",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 47,
         "name": "Marlon",
-        "rating": "938"
+        "rating": "938",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 48,
         "name": "Matheus",
-        "rating": "954"
+        "rating": "954",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 49,
         "name": "Maylin",
-        "rating": "1002"
+        "rating": "1002",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 50,
         "name": "Moises",
-        "rating": "1133"
+        "rating": "1095",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 51,
         "name": "Natan",
-        "rating": "945"
+        "rating": "945",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 52,
         "name": "Noe",
-        "rating": "952"
+        "rating": "952",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 53,
         "name": "PH da Noite",
-        "rating": "1062"
+        "rating": "1044",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 54,
         "name": "PHMS",
-        "rating": "942"
+        "rating": "942",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 55,
         "name": "PT",
-        "rating": "968"
+        "rating": "968",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 56,
         "name": "Pantz",
-        "rating": "988"
+        "rating": "988",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 57,
         "name": "Patife",
-        "rating": "946"
+        "rating": "946",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 58,
         "name": "Patrick",
-        "rating": "987"
+        "rating": "987",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 59,
         "name": "PedraoIGC",
-        "rating": "963"
+        "rating": "972",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 60,
         "name": "Pedro",
-        "rating": "947"
+        "rating": "947",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 61,
         "name": "Ping",
-        "rating": "967"
+        "rating": "967",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 62,
         "name": "RR",
-        "rating": "1077"
+        "rating": "1077",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 63,
         "name": "Rafael",
-        "rating": "946"
+        "rating": "946",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 64,
         "name": "Rhenan",
-        "rating": "908"
+        "rating": "908",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 65,
         "name": "Rocha",
-        "rating": "917"
+        "rating": "917",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 66,
         "name": "Ryan",
-        "rating": "936"
+        "rating": "936",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 67,
         "name": "Serjao",
-        "rating": "1062"
+        "rating": "1062",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 68,
-        "name": "Serj„o",
-        "rating": "941"
+        "name": "Serj√£o",
+        "rating": "941",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 69,
         "name": "Souza",
-        "rating": "980"
+        "rating": "980",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 70,
         "name": "TH",
-        "rating": "950"
+        "rating": "950",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 71,
         "name": "Tarzan",
-        "rating": "1002"
+        "rating": "1002",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 72,
         "name": "Ulisses",
-        "rating": "925"
+        "rating": "925",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 73,
         "name": "VT",
-        "rating": "934"
+        "rating": "933",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 74,
         "name": "Vanderley",
-        "rating": "1025"
+        "rating": "1025",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 75,
         "name": "Vitor",
-        "rating": "1060"
+        "rating": "1060",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 76,
         "name": "Wel",
-        "rating": "1032"
+        "rating": "1032",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 77,
         "name": "Wesley",
-        "rating": "1065"
+        "rating": "1103",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 78,
         "name": "White",
-        "rating": "1081"
+        "rating": "1099",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 79,
         "name": "Xaropinho",
-        "rating": "995"
+        "rating": "995",
+        "wins": 0,
+        "losses": 0
     },
     {
-        "id": 80,
         "name": "Yam",
-        "rating": "984"
-    }]
+        "rating": "984",
+        "wins": 0,
+        "losses": 0
+    }
+]

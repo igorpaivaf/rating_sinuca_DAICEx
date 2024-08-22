@@ -15,8 +15,10 @@ function fetchData(){
 
             data.forEach(element => root.insertAdjacentHTML('beforebegin', 
                 `<tr class="hover:bg-zinc-800 hover:text-zinc-100">
-                    <td class="text-zinc-500 p-2">${element.name}</td>
-                    <td class="text-zinc-500">${element.rating}</td>
+                    <td class="text-zinc-500 p-4">${element.name}</td>
+                    <td class="text-zinc-500 px-4">${element.rating}</td>
+                    <td class="text-zinc-500 px-4">${element.wins}</td>
+                    <td class="text-zinc-500 px-4">${element.losses}</td>
                 </tr>`));        }
         )
         .catch((error) => 
@@ -37,9 +39,11 @@ function fetchData2(){
             data.forEach(element => sorted.insertAdjacentHTML(
                 'beforebegin', 
                 `<tr class="hover:bg-zinc-800 hover:text-zinc-100">
-                    <td class="text-zinc-500 p-2">${position++}°</td>
-                    <td class="text-zinc-500 p-2">${element.name}</td>
-                    <td  class="text-zinc-500">${element.rating}</td>
+                    <td class="text-zinc-500 p-4">${position++}°</td>
+                    <td class="text-zinc-500 p-4">${element.name}</td>
+                    <td class="text-zinc-500 px-4">${element.rating}</td>
+                    <td class="text-zinc-500 px-4">${element.wins}</td>
+                    <td class="text-zinc-500 px-4">${element.losses}</td>
                     </tr>`));        }
         )
         .catch((error) => 
