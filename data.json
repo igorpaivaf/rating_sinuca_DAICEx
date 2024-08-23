@@ -97,9 +97,9 @@
     },
     {
         "name": "Estagiario",
-        "rating": "1039",
+        "rating": 1037,
         "wins": 0,
-        "losses": 0
+        "losses": "1"
     },
     {
         "name": "Fael",
@@ -121,9 +121,9 @@
     },
     {
         "name": "GB",
-        "rating": "927",
-        "wins": 0,
-        "losses": 0
+        "rating": 935,
+        "wins": "2",
+        "losses": "1"
     },
     {
         "name": "Gaybriel",
@@ -169,21 +169,21 @@
     },
     {
         "name": "Iago",
-        "rating": "997",
+        "rating": 992,
         "wins": 0,
-        "losses": 0
+        "losses": "1"
     },
     {
         "name": "Iam",
-        "rating": "981",
-        "wins": 0,
+        "rating": 984,
+        "wins": "1",
         "losses": 0
     },
     {
         "name": "Ian",
-        "rating": "961",
-        "wins": 0,
-        "losses": 0
+        "rating": 963,
+        "wins": "1",
+        "losses": "1"
     },
     {
         "name": "Iuri",
@@ -265,9 +265,9 @@
     },
     {
         "name": "MT",
-        "rating": "1024",
+        "rating": 1013,
         "wins": 0,
-        "losses": 0
+        "losses": "2"
     },
     {
         "name": "Marcello",
@@ -295,9 +295,9 @@
     },
     {
         "name": "Moises",
-        "rating": "1095",
-        "wins": 0,
-        "losses": 0
+        "rating": 1108,
+        "wins": "1",
+        "losses": "1"
     },
     {
         "name": "Natan",
@@ -313,9 +313,9 @@
     },
     {
         "name": "PH da Noite",
-        "rating": "1044",
+        "rating": 1024,
         "wins": 0,
-        "losses": 0
+        "losses": "1"
     },
     {
         "name": "PHMS",
@@ -349,9 +349,9 @@
     },
     {
         "name": "PedraoIGC",
-        "rating": "972",
-        "wins": 0,
-        "losses": 0
+        "rating": 982,
+        "wins": "4",
+        "losses": "2"
     },
     {
         "name": "Pedro",
@@ -457,14 +457,14 @@
     },
     {
         "name": "Wesley",
-        "rating": "1103",
+        "rating": 1046,
         "wins": 0,
-        "losses": 0
+        "losses": "1"
     },
     {
         "name": "White",
-        "rating": "1099",
-        "wins": 0,
+        "rating": 1158,
+        "wins": "2",
         "losses": 0
     },
     {
