@@ -157,9 +157,9 @@
     },
     {
         "name": "Guto",
-        "rating": "963",
+        "rating": 959,
         "wins": 0,
-        "losses": 0
+        "losses": "1"
     },
     {
         "name": "Heitor",
@@ -181,8 +181,8 @@
     },
     {
         "name": "Ian",
-        "rating": 963,
-        "wins": "1",
+        "rating": 972,
+        "wins": "3",
         "losses": "1"
     },
     {
@@ -349,9 +349,9 @@
     },
     {
         "name": "PedraoIGC",
-        "rating": 982,
-        "wins": "4",
-        "losses": "2"
+        "rating": 977,
+        "wins": "5",
+        "losses": "4"
     },
     {
         "name": "Pedro",
