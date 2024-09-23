@@ -7,9 +7,9 @@
     },
     {
         "name": "Arthur",
-        "rating": "1024",
+        "rating": 1023,
         "wins": 0,
-        "losses": 0
+        "losses": "1"
     },
     {
         "name": "Benga",
@@ -175,9 +175,9 @@
     },
     {
         "name": "Iam",
-        "rating": 984,
+        "rating": 979,
         "wins": "1",
-        "losses": 0
+        "losses": "3"
     },
     {
         "name": "Ian",
@@ -397,8 +397,8 @@
     },
     {
         "name": "Serjao",
-        "rating": "1062",
-        "wins": 0,
+        "rating": 1066,
+        "wins": "2",
         "losses": 0
     },
     {
@@ -457,15 +457,15 @@
     },
     {
         "name": "Wesley",
-        "rating": 1046,
-        "wins": 0,
-        "losses": "1"
+        "rating": 1039,
+        "wins": "1",
+        "losses": "8"
     },
     {
         "name": "White",
-        "rating": 1162,
-        "wins": "4",
-        "losses": 0
+        "rating": 1171,
+        "wins": "13",
+        "losses": "1"
     },
     {
         "name": "Xaropinho",

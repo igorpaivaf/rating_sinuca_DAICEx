@@ -97,9 +97,9 @@
     },
     {
         "name": "Estagiario",
-        "rating": 1042,
-        "wins": "2",
-        "losses": "2"
+        "rating": 1052,
+        "wins": "9",
+        "losses": "5"
     },
     {
         "name": "Fael",
@@ -235,9 +235,9 @@
     },
     {
         "name": "Lorde",
-        "rating": 919,
-        "wins": "1",
-        "losses": 0
+        "rating": 924,
+        "wins": "2",
+        "losses": "1"
     },
     {
         "name": "Lucas",
@@ -295,9 +295,9 @@
     },
     {
         "name": "Moises",
-        "rating": 1109,
+        "rating": 1104,
         "wins": "2",
-        "losses": "1"
+        "losses": "2"
     },
     {
         "name": "Natan",
@@ -361,9 +361,9 @@
     },
     {
         "name": "Ping",
-        "rating": 971,
+        "rating": 963,
         "wins": "1",
-        "losses": 0
+        "losses": "4"
     },
     {
         "name": "RR",
@@ -463,9 +463,9 @@
     },
     {
         "name": "White",
-        "rating": 1171,
-        "wins": "13",
-        "losses": "1"
+        "rating": 1169,
+        "wins": "15",
+        "losses": "2"
     },
     {
         "name": "Xaropinho",
