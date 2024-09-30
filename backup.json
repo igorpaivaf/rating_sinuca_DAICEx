@@ -7,9 +7,9 @@
     },
     {
         "name": "Arthur",
-        "rating": 1023,
-        "wins": 0,
-        "losses": "1"
+        "rating": 1021,
+        "wins": "1",
+        "losses": "2"
     },
     {
         "name": "Benga",
@@ -79,15 +79,15 @@
     },
     {
         "name": "Dornellas",
-        "rating": "1061",
-        "wins": 0,
-        "losses": 0
+        "rating": 1057,
+        "wins": "1",
+        "losses": "2"
     },
     {
         "name": "Dudu",
-        "rating": "932",
-        "wins": 0,
-        "losses": 0
+        "rating": 933,
+        "wins": "1",
+        "losses": "2"
     },
     {
         "name": "Emily",
@@ -97,9 +97,9 @@
     },
     {
         "name": "Estagiario",
-        "rating": 1052,
-        "wins": "9",
-        "losses": "5"
+        "rating": 1043,
+        "wins": "12",
+        "losses": "9"
     },
     {
         "name": "Fael",
@@ -121,8 +121,8 @@
     },
     {
         "name": "GB",
-        "rating": 932,
-        "wins": "2",
+        "rating": 938,
+        "wins": "3",
         "losses": "2"
     },
     {
@@ -163,8 +163,8 @@
     },
     {
         "name": "Heitor",
-        "rating": "954",
-        "wins": 0,
+        "rating": 960,
+        "wins": "1",
         "losses": 0
     },
     {
@@ -175,9 +175,9 @@
     },
     {
         "name": "Iam",
-        "rating": 979,
-        "wins": "1",
-        "losses": "3"
+        "rating": 985,
+        "wins": "3",
+        "losses": "4"
     },
     {
         "name": "Ian",
@@ -361,9 +361,9 @@
     },
     {
         "name": "Ping",
-        "rating": 963,
+        "rating": 961,
         "wins": "1",
-        "losses": "4"
+        "losses": "5"
     },
     {
         "name": "RR",
@@ -445,8 +445,8 @@
     },
     {
         "name": "Vitor",
-        "rating": "1060",
-        "wins": 0,
+        "rating": 1062,
+        "wins": "1",
         "losses": 0
     },
     {
@@ -463,9 +463,9 @@
     },
     {
         "name": "White",
-        "rating": 1169,
-        "wins": "15",
-        "losses": "2"
+        "rating": 1165,
+        "wins": "16",
+        "losses": "3"
     },
     {
         "name": "Xaropinho",
