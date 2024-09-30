@@ -7,8 +7,8 @@
     },
     {
         "name": "Arthur",
-        "rating": 1021,
-        "wins": "1",
+        "rating": 1029,
+        "wins": "3",
         "losses": "2"
     },
     {
@@ -79,15 +79,15 @@
     },
     {
         "name": "Dornellas",
-        "rating": 1057,
-        "wins": "1",
-        "losses": "2"
+        "rating": 1061,
+        "wins": "3",
+        "losses": "3"
     },
     {
         "name": "Dudu",
-        "rating": 933,
-        "wins": "1",
-        "losses": "2"
+        "rating": 941,
+        "wins": "3",
+        "losses": "3"
     },
     {
         "name": "Emily",
@@ -97,9 +97,9 @@
     },
     {
         "name": "Estagiario",
-        "rating": 1043,
-        "wins": "12",
-        "losses": "9"
+        "rating": 1035,
+        "wins": "15",
+        "losses": "14"
     },
     {
         "name": "Fael",
@@ -175,9 +175,9 @@
     },
     {
         "name": "Iam",
-        "rating": 985,
-        "wins": "3",
-        "losses": "4"
+        "rating": 998,
+        "wins": "8",
+        "losses": "6"
     },
     {
         "name": "Ian",
@@ -247,9 +247,9 @@
     },
     {
         "name": "Luiz",
-        "rating": "1036",
+        "rating": 1024,
         "wins": 0,
-        "losses": 0
+        "losses": "3"
     },
     {
         "name": "Luiz Carlos",
@@ -265,9 +265,9 @@
     },
     {
         "name": "MT",
-        "rating": 1008,
+        "rating": 1005,
         "wins": 0,
-        "losses": "3"
+        "losses": "4"
     },
     {
         "name": "Marcello",
@@ -295,9 +295,9 @@
     },
     {
         "name": "Moises",
-        "rating": 1104,
-        "wins": "2",
-        "losses": "2"
+        "rating": 1109,
+        "wins": "6",
+        "losses": "3"
     },
     {
         "name": "Natan",
@@ -325,9 +325,9 @@
     },
     {
         "name": "PT",
-        "rating": 970,
+        "rating": 960,
         "wins": "1",
-        "losses": "1"
+        "losses": "5"
     },
     {
         "name": "Pantz",
@@ -408,6 +408,12 @@
         "losses": 0
     },
     {
+        "name": "Sonatas",
+        "rating": "950",
+        "wins": "0",
+        "losses": "0"
+    },
+    {
         "name": "Souza",
         "rating": "980",
         "wins": 0,
@@ -445,8 +451,8 @@
     },
     {
         "name": "Vitor",
-        "rating": 1062,
-        "wins": "1",
+        "rating": 1068,
+        "wins": "3",
         "losses": 0
     },
     {
@@ -457,15 +463,15 @@
     },
     {
         "name": "Wesley",
-        "rating": 1039,
+        "rating": 1036,
         "wins": "1",
-        "losses": "8"
+        "losses": "9"
     },
     {
         "name": "White",
-        "rating": 1165,
-        "wins": "16",
-        "losses": "3"
+        "rating": 1162,
+        "wins": "17",
+        "losses": "4"
     },
     {
         "name": "Xaropinho",
@@ -475,8 +481,8 @@
     },
     {
         "name": "Yam",
-        "rating": "984",
+        "rating": 979,
         "wins": 0,
-        "losses": 0
+        "losses": "1"
     }
 ]
